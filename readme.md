@@ -1,7 +1,7 @@
 # Installation
 Run the following command to clone the repository
 ```
-git clone https://github.com/alokyadav1/mern-todo-app.git
+git clone https://github.com/amberpurwar636/Digital-Notepad.git
 ```
 Go to ```frontend``` and ```backend``` directory to install packages
 ```
